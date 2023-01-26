@@ -44,7 +44,7 @@ export default function Header({ title }: { title: string }) {
           </button>
         )}
         <a
-          href='https://github.com/b4conjuice/tswordle'
+          href='https://github.com/b4conjuice/marvel'
           target='_blank'
           rel='noopener noreferrer'
         >
